@@ -1,15 +1,17 @@
 # Blockchain
 
 ## How my Streamlit application looks 
-![Streamlit application](Images/PyChain Screenshot.PNG)
+<img src="Images/PyChain Screenshot.PNG">
+</br>
 
 ## Transactions
-![Streamlit transactions](Images/Brian to Eric Validation.PNG)
-![Streamlit transactions](Images/Eric to Raymond Validaiton.PNG)
-![Streamlit transactions](Images/Raymond to Brian Validation.PNG)
+<img src="Images/Brian to Eric Validation.PNG">
+<img src="Images/Eric to Raymond Validaiton.PNG">
+<img src="Images/Raymond to Brian Validation.PNG">
+</br>
 
 ## Validation of Block
-![Validation](Images/Validaiton of Blockchain.PNG)
+<img src="Images/Validaiton of Blockchain.PNG">
 
 
 
